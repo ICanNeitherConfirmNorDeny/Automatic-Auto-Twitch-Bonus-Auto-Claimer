@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "Automatic Auto Twitch Bonus Auto-Claimer",
+    "developer": {
+        "name": "ICanNeitherConfirmNorDeny",
+        "url": "https://github.com/ICanNeitherConfirmNorDeny"
+      },
+    "version": "69.420",
+    "description": "Automatically clicks 'Claim Bonus' buttons on Twitch.tv automatically.",
+    "permissions": ["activeTab"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["contentScript.js"]
+      }
+    ],
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "icons/icon.png"
+      },
+      "icons": {
+        "48": "icons/icon.png"
+      }
+    }
