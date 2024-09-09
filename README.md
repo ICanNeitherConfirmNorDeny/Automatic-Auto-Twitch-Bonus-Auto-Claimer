@@ -14,3 +14,5 @@ Click "Load Temporary Add-On."<br>
 Select the manifest.json file and click "Open."<br>
 Profit :P<br>
  
+<h3>Optional</h3>
+Install through the Firefox Plugin Manager (Once I release it there.)
