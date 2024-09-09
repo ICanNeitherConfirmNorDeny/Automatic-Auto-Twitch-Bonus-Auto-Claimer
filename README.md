@@ -2,7 +2,7 @@
 Automatically clicks 'Claim Bonus' buttons on Twitch.tv automatically
 
 Big redundant name with big redundant features. Wow.
-<img src="http://i2.kym-cdn.com/photos/images/original/000/645/027/315.jpg" alt="doge, wow" height=25% width=50%><br>
+<img src="http://i2.kym-cdn.com/photos/images/original/000/645/027/315.jpg" alt="doge, wow" height="25%" width="25%"><br>
 Basically, it does what it says it does.
 
 <h3>Installation</h3>
